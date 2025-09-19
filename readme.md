@@ -1,4 +1,4 @@
-# LibreTV - 免费在线视频搜索与观看平台
+# FreeTV - 免费在线视频搜索与观看平台
 
 <div align="center">
   <img src="./image/retrotv_5520.png" alt="LibreTV Logo" width="120">
@@ -24,7 +24,7 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
 
 ## 🚀 快速部署
 
-选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
+选择以下任一平台，点击一键部署按钮，即可快速创建自己的 FreeTV 实例：
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLibreSpark%2FLibreTV) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV) 
 
